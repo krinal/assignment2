@@ -1,0 +1,40 @@
+    h1
+	{
+		color:#006600;
+	}
+
+
+
+	.headlines
+	{
+		font-family:Georgia;
+		background-color: blue;
+		
+    }
+
+	p
+	{
+		line-height: 20px;
+			}
+
+	.border
+	{
+		border-style: dotted;
+	}
+    
+    .pictures
+    {
+    	float: left;
+    	height:200px;
+    	
+    }
+
+	#label
+	{
+		text-transform: uppercase;
+	}
+
+	a 
+	{
+        text-decoration: none;
+    }
